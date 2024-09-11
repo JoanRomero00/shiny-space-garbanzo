@@ -1,0 +1,7 @@
+:- dynamic padres/3.
+
+padres(belen, tiziana, quique).
+padres(laura, maaria, mauro).
+padres(seba, ida, beto).
+padres(joan, adri, manu).
+

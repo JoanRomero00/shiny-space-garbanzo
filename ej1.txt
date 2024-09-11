@@ -1,0 +1,6 @@
+:- dynamic gastos/3.
+
+gastos(joan, agua, 500).
+gastos(joan, luz, 1000).
+gastos(mati, agua, 100).
+
